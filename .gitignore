@@ -1,0 +1,9 @@
+.env
+*.env
+*.log
+__pycache__/
+*.pyc
+reply_engine_config.yaml
+*.csv
+*.db
+*.sqlite
